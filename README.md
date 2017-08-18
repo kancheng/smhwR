@@ -13,7 +13,7 @@ install.packages("quantmod")
 
 ## Run
 
-Run `smhw-tem.R` or 'smhw'
+Run `smhw-tem.R` or `smhw`
 
 ### smhw-tem.R
 
